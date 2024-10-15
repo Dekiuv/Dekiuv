@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Sobre mí
 
-Graduado en un grado superior de Administración de sistemas y redes (ASIR), y actualmente me encuentro realizando un master de Inteligencia Artificial y BigData.
+Graduado en un grado superior de Administración de sistemas y redes (ASIR), y actualmente realizando un Master de Inteligencia Artificial y BigData.
 
 ---
 
