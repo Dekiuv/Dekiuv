@@ -3,23 +3,8 @@
 ---
 
 ### 👨‍💻 Sobre mí
-Buenas! Me llamo Diego Roque, alias "Dekiuv".
-Soy graduado en un grado superior de Administración de sistemas y redes (ASIR), y actualmente me encuentro realizando un master de Inteligencia Artificial y BigData.
-
----
-
-### 🌱 Actualmente aprendiendo
-- [Lista de tecnologías o habilidades nuevas que estás aprendiendo, por ejemplo: Machine Learning, React, etc.]
-
-### 💬 Contáctame
-- **Email**: [diego1roque2@gmail.com](mailto:diego1roque2@gmail.com)
-- **LinkedIn**: [linkedin.com/in/diego-roque-valero](https://www.linkedin.com/in/diego-roque-valero)
----
-
-### 🚀 Proyectos Destacados
-- **[Proyecto 1](enlace-al-proyecto)**: Breve descripción del proyecto.
-- **[Proyecto 2](enlace-al-proyecto)**: Breve descripción del proyecto.
-- **[Proyecto 3](enlace-al-proyecto)**: Breve descripción del proyecto.
+  Buenas! Me llamo Diego Roque, alias "Dekiuv".
+  Soy graduado en un grado superior de Administración de sistemas y redes (ASIR), y actualmente me encuentro realizando un master de Inteligencia Artificial y BigData.
 
 ---
 
@@ -30,8 +15,10 @@ Soy graduado en un grado superior de Administración de sistemas y redes (ASIR),
 
 ---
 
-### 🙌 ¡Conectemos!
-Si te interesa colaborar en algún proyecto o simplemente charlar, no dudes en contactarme.
+### 💬 Contáctame
+- **Email**: [diego1roque2@gmail.com](mailto:diego1roque2@gmail.com)
+- **LinkedIn**: [linkedin.com/in/diego-roque-valero](https://www.linkedin.com/in/diego-roque-valero)
 
 ---
+
 
