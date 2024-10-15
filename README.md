@@ -3,7 +3,7 @@
 ---
 
 ### 👨‍💻 Sobre mí
-  Buenas! Me llamo Diego Roque, alias "Dekiuv".
+  Buenas! Me llamo Diego Roque, alias "Dekiuv". </br>
   Soy graduado en un grado superior de Administración de sistemas y redes (ASIR), y actualmente me encuentro realizando un master de Inteligencia Artificial y BigData.
 
 ---
