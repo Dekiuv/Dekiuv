@@ -7,7 +7,6 @@
 - **Master de Inteligencia Artificial y BigData**
 - **Grado superior de Administración de sistemas Informaticos y Redes**
 
----
 
 ### 👨‍💻 Certificados
 - **Fundamentos de Python 1 (Cisco)**
@@ -51,11 +50,13 @@
 
 - **Redes y Tecnología**: 
   ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+  
 ---
 
 ### 💬 Contáctame
-- **Email**: [diego1roque2@gmail.com](mailto:diego1roque2@gmail.com)
-- **LinkedIn**: [linkedin.com/in/diego-roque-valero](https://www.linkedin.com/in/diego-roque-valero)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=acclaim&logoColor=white)](https://www.credly.com/users/diego-roque-valero)
 
 ---
 
