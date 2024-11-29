@@ -51,6 +51,9 @@
 - **Redes y Tecnología**: 
   ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
   
+- **Herramientas de Análisis y Visualización de Datos**: 
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+  
 ---
 
 ### 💬 Contáctame
