@@ -1,4 +1,4 @@
-# ¡Bienvenido a mi Github! 👋 Soy Dekiuv
+# ¡Bienvenido a mi Github! 👋 Soy Diego
 
 ---
 
