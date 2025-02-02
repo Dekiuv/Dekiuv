@@ -47,11 +47,3 @@
 - **Redes y Tecnología**: 
   ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)  
 ---
-
-### 💬 Contáctame
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-roque-valero)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=acclaim&logoColor=white)](https://www.credly.com/users/diego-roque-valero)
-
----
-
-
