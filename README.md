@@ -46,4 +46,3 @@
 
 - **Redes y Tecnología**: 
   ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)  
----
