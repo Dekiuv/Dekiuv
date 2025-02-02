@@ -4,8 +4,8 @@
 
 ### 👨‍💻 Estudios
 
-- **Master de Inteligencia Artificial y BigData**
-- **Grado superior de Administración de sistemas Informaticos y Redes**
+- **Máster de Inteligencia Artificial y Big Data**
+- **Grado superior de Administración de Sistemas Informaticos y Redes**
 
 
 ### 👨‍💻 Certificados
