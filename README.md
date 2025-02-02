@@ -54,7 +54,6 @@
 
 ### 💬 Contáctame
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-roque-valero)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:diego1roque2@gmail.com)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=acclaim&logoColor=white)](https://www.credly.com/users/diego-roque-valero)
 
 ---
