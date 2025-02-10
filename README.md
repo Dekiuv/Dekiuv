@@ -11,9 +11,6 @@
 ### 👨‍💻 Certificados
 - **Fundamentos de Python 1**
 - **English for IT 1**
-- **Introducción a Ciberseguridad**
-- **Conceptos Básicos de Hardware de Computadora**
-
 ---
 
 ### 🛠️ Herramientas y Tecnologías
