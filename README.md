@@ -1,5 +1,8 @@
 # ¡Bienvenido a mi Github! 👋 Soy Diego
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dekiuv&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=dekiuv&show_icons=true&hide_title=true&theme=tokyonight" width="394">
+
 ---
 
 ### 👨‍💻 Estudios
