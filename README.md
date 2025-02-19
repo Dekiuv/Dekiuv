@@ -20,7 +20,6 @@
 - **Sistemas Operativos**: 
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows8&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-  ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
   
 - **Lenguajes**: 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
