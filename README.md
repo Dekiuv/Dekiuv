@@ -1,53 +1,126 @@
-# ¡Bienvenido a mi Github! 👋 Soy Diego
+<img src="https://raw.githubusercontent.com/Dekiuv/Dekiuv/output/snake.svg" alt="Snake animation" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dekiuv&layout=compact&theme=tokyonight)
-<img src="https://github-readme-stats.vercel.app/api?username=dekiuv&show_icons=true&hide_title=true&theme=tokyonight" width="394">
+###
 
----
+<h1 align="center">¡Bienvenido a mi Github! 👋 Soy Dekiuv</h1>
 
-### 👨‍💻 Estudios
+###
 
-- **Máster de Inteligencia Artificial y Big Data**
-- **Grado superior de Administración de Sistemas Informaticos y Redes**
+<h3 align="center">Administrador de sistemas informaticos y redes || Especialista IA y Big Data</h3>
 
+###
 
-### 👨‍💻 Certificados
-- **Fundamentos de Python 1**
-- **English for IT 1**
----
+<h3 align="left">👨‍💻 Acerca de mi</h3>
 
-### 🛠️ Herramientas y Tecnologías
-- **Sistemas Operativos**: 
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows8&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-  
-- **Lenguajes**: 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+###
 
-- **Bases de Datos**:
-  ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) 
+<p align="left">🎓 Estudios<br><br>    - Máster en Inteligencia Artificial y Big Data (2024 - 2025)<br>    - Grado superior en Administración de Sistemas Informaticos y Redes (2022 - 2024)<br>- Bachillerato modalidad humanidades y ciencias sociales (2020 - 2022)<br><br>📜 Certificados<br><br>    - Fundamentos de Python 1 & 2 (2025)<br>    - English for IT 1 (2025)</p>
 
-- **Herramientas de Análisis y Visualización de Datos**: 
-  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+###
 
-- **Automatización y Scripting**: 
-  ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-  
-- **Control de Versiones**:
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+<h3 align="left">🛠️ Herramientas y Tecnologías</h3>
 
+###
 
-- **Virtualización y Cloud**: 
-  ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon&logoColor=white)
+<h4 align="left">🖥️ Sistemas operativos</h4>
 
-- **Redes y Tecnología**: 
-  ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)  
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+</div>
+
+###
+
+<h4 align="left">💻 Lenguajes</h4>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=r" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+</div>
+
+###
+
+<h4 align="left">Gestor de bases de datos</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<h4 align="left">📊 Herramientas de Análisis y Visualización de Datos</h4>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<h4 align="left">🤖 Automatización y Scripting</h4>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+</div>
+
+###
+
+<h4 align="left">📑 Control de Versiones</h4>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+</div>
+
+###
+
+<h4 align="left">☁️ Virtualización y Cloud</h4>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+</div>
+
+###
+
+<h3 align="center">📞 Contacto</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/diego-roque-valero/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
