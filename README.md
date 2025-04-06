@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Dekiuv/Dekiuv/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Dekiuv/Dekiuv/snake.yml" alt="Snake animation" />
 
 ###
 
