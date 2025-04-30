@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">🎓 Estudios<br><br>    - Máster en Inteligencia Artificial y Big Data (2024 - 2025)<br>    - Grado superior en Administración de Sistemas Informaticos y Redes (2022 - 2024)<br>- Bachillerato modalidad humanidades y ciencias sociales (2020 - 2022)<br><br>📜 Certificados<br><br>    - Fundamentos de Python 1 & 2 (2025)<br>    - English for IT 1 (2025)</p>
+<p align="left">🎓 Estudios<br><br>    - Máster en Inteligencia Artificial y Big Data (2024 - 2025)<br>    - Grado superior en Administración de Sistemas Informaticos y Redes (2022 - 2024)<br>- Bachillerato modalidad humanidades y ciencias sociales (2020 - 2022)<br><br>📜 Certificados<br><br>    - Fundamentos de Python 1 & 2 (2025)<br>    - English for IT 1 (2024)</p>
 
 ###
 
