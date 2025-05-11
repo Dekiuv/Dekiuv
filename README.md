@@ -3,7 +3,7 @@
 
 ###
 
-<h1 align="center">¡Bienvenido a mi Github! 👋 Soy Dekiuv</h1>
+<h1 align="center">¡Bienvenido a mi Github! 👋 Soy Diego</h1>
 
 ###
 
@@ -110,18 +110,6 @@
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-</div>
-
-###
-
-<h3 align="center">📞 Contacto</h3>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/diego-roque-valero/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
 </div>
 
 ###
